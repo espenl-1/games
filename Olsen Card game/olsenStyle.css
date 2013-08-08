@@ -1,0 +1,6 @@
+body{
+background-color : green
+}
+div[id^="player"]{
+background-color : yellow
+}
